@@ -78,7 +78,7 @@ ul, li {
 
 .wrapper-login{
 
-    width: 800px;
+    width: 400px;
     margin-right: 50px;
     background-color:#080505;
     align-items: center center;
@@ -214,12 +214,12 @@ ul, li {
 .img1{
     background-repeat: no-repeat;
     max-width:300px;
-    max-height:500px;
+    max-height:400px;
     align-items:center ;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 150px;
-    margin-left: 110px;
+    padding: 20px;
+    margin-left: 50px;
 
 }
